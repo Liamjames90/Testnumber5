@@ -1,0 +1,18 @@
+{
+   "game_answer_over_formatted": "OVER %s",
+   "comment_wave_formatted": " %s Hi!",
+   "content_today": "Today",
+   "content_yesterday": "Yesterday",
+   "content_tomorrow": "Today",
+   "hour_shortcut": "hr",
+   "minute_shortcut": "min",
+   "second_shortcut": "sec",
+   "season_episode_formatted": "S%s E%d",
+   "episode_formatted": "E%d",
+   "season_formatted": "S%d",
+   "payment_type_debit": "DEBIT CARD now",
+   "payment_type_credit": "CREDIT CARD",
+   "something_went_wrong": "Oops, something went wrong. Please try again in sometime.",
+   "duration_in_months_formatted": "d years",
+   "wave_text": "Hi!"
+}
